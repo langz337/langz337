@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/PMNOD497QxMAAAAC/%D1%82%D1%8F%D0%BD%D0%BA%D0%B8.gif" alt="Cyber Security Banner" width="100%" height="250px" style="object-fit: cover; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/langz337/langz337/refs/heads/main/IMG_7127.gif" alt="Cyber Security Banner" width="100%" height="250px" style="object-fit: cover; border-radius: 8px;" />
 </div>
 
 <h1 align="center">Langz337</h1>
